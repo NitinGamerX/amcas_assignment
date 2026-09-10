@@ -10,7 +10,7 @@
 -ResetCurrent (uA): 100
 -ResetPulse (ns): 10
 -SetMode: current
--SetCurrent (uA): 100
+-SetCurrent (uA): 200
 -SetPulse (ns): 10
 -AccessType: CMOS
 -AccessCMOSWidth (F): 6
